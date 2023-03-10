@@ -53,7 +53,7 @@ _This is site built for users to enter new employess, search and display current
 
 ## Known Bugs
 
-* _N/A_
+* _Delete Functionality not working_
 
 ## License
 
