@@ -1,8 +1,1 @@
-@{
-  Layout = "_Layout";
-}
-<h1>Welcome to Eau Claire's Salon!</h1>
 
-
-<p>@Html.ActionLink("See all Clients", "Index", "Clients")</p> 
-<p>@Html.ActionLink("See all Stylists", "Index", "Stylists")</p>
