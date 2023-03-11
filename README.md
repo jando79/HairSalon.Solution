@@ -13,7 +13,7 @@
 
 ## Description
 
-_This is site built for users to enter new employess, search and display current employees, as well as clients assiciated with the specific type of employees. Controllers and multiple views directories are utilized for ease of navigation. We use MySql to allow users to store information in a database._
+_This is site built for users to enter new employees, search and display current employees, as well as clients assiciated with the specific type of employees. Controllers and multiple views directories are utilized for ease of navigat. MySql to allows users to store information in a database._
 
 ## Setup/Installation Requirements
 
@@ -34,7 +34,7 @@ _This is site built for users to enter new employess, search and display current
 
 * In Import Options select Import from Self-Contained File.
 
-* Look for the "HairSalon.Solution" directory and pick the file called "DavidJandron.sql"
+* Look for the "HairSalon.Solution" directory and pick the file called "david_jandron.sql"
 
 * Under Default Schema to be Imported To, select the New button.
 
